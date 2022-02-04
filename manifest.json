@@ -1,0 +1,15 @@
+{
+    "manifest_version": 2,
+    "name": "China Virus Blocker",
+    "description": "End the media pandemic. Block all covid related content on the internet",
+    "version": "1.0",
+    "content_scripts": [
+      {
+        "matches": ["<all_urls>"],
+        "js": ["script.js"],
+        "css": ["styles.css"]
+        
+      }
+    ]
+  }
+  
