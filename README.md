@@ -1,3 +1,11 @@
-<h1><strong>Covid Blocker 😷</strong></h1>
-<p>Hide the all covid content on all websites</p>
-<p><img style="display: block; margin-left: auto; margin-right: auto;" src="https://drive.google.com/uc?export=view&amp;id=1Q11GyaAyqZ-u74HUu0lbVNZCAl1E6KWS" alt="" width="600" /></p>
+# China Virus Blocker 😷
+
+## Introduction
+Hide all china virus content on all websites
+
+## Q&A
+**Why is it called "China Virus" Blocker?**
+Because it's the only term that wouldn't be blocked by the extension itself 🤷‍♂️
+
+## Screenshot
+![CDC example](https://drive.google.com/uc?export=view&amp;id=1Q11GyaAyqZ-u74HUu0lbVNZCAl1E6KWS "CDC Example")
