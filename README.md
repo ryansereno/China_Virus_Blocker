@@ -4,7 +4,7 @@
 Hide all china virus content on all websites
 
 ## Q&A
-**Why is it called "China Virus" Blocker?**
+**Why is it called "China Virus" Blocker?**   
 Because it's the only term that wouldn't be blocked by the extension itself 🤷‍♂️
 
 ## Screenshot
