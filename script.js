@@ -1,8 +1,8 @@
 // Please play while contributing: https://www.youtube.com/watch?v=ZPhdpk5Rd6A
 
-const blacklist = ['coronavirus', 'COVID-19', 'Omicron', 'booster', 'vaccine', 'N95', 'Quarantine', 'CDC', 'lockdown', 'covid', 'delta variant', 'pandemic'];
-const blacklistStr = blacklist.join('|');
-const reg = new RegExp(blacklistStr, 'gi');
+let blacklist = ['coronavirus', 'COVID-19', 'Omicron', 'booster', 'vaccine', 'N95', 'Quarantine', 'CDC', 'lockdown', 'covid', 'delta variant', 'pandemic'];
+let blacklistStr = blacklist.join('|');
+let reg = new RegExp(blacklistStr, 'gi');
 
 replaceText(document.body)
 
