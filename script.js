@@ -40,5 +40,17 @@ function replaceText(element){
             element.parentElement.style.color = 'black'
             element.parentElement.style.backgroundColor = 'black'
         }
+        if (element.textContent.match(/covid/gi)) {
+            element.parentElement.style.color = 'black'
+            element.parentElement.style.backgroundColor = 'black'
+        }
+        if (element.textContent.match(/delta variant/gi)) {
+            element.parentElement.style.color = 'black'
+            element.parentElement.style.backgroundColor = 'black'
+        }
+        if (element.textContent.match(/pandemic/gi)) {
+            element.parentElement.style.color = 'black'
+            element.parentElement.style.backgroundColor = 'black'
+        }
     }
 }
