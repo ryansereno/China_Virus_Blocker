@@ -8,4 +8,4 @@ Hide all china virus content on all websites
 Because it's the only term that wouldn't be blocked by the extension itself 🤷‍♂️
 
 ## Screenshot
-![CDC example](https://drive.google.com/uc?export=view&amp;id=1Q11GyaAyqZ-u74HUu0lbVNZCAl1E6KWS "CDC Example")
+![Example](https://drive.google.com/uc?export=view&amp;id=1Q11GyaAyqZ-u74HUu0lbVNZCAl1E6KWS "Example")
