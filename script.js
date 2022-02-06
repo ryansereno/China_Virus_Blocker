@@ -4,15 +4,14 @@ let blacklist = ['coronavirus', 'COVID-19', 'Omicron', 'booster', 'vaccine', 'va
 let blacklistStr = blacklist.join('|');
 let reg = new RegExp(blacklistStr, 'gi');
 
-replaceText(document.body);
-replaceImage(document.body);
+replaceContent(document.body);
 
 // ***
-function replaceText(element){
+function replaceContent(element){
     if (element.hasChildNodes()){       
 
         //loop through element hierarchy until text element/ non child element is found
-        element.childNodes.forEach(replaceText) 
+        element.childNodes.forEach(replaceContent) 
     }   else if (element.nodeType === Text.TEXT_NODE && element.textContent.match(reg)) {
             element.parentElement.style.color = "white"
             element.parentElement.style.backgroundColor = "white"
